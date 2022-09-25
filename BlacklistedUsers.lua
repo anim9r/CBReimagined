@@ -1,7 +1,7 @@
 
 --[[
 
-    Do not comment UserIds, it blacklists too.
+    Do not comment Ids, it blacklists too.
     Instead, place  _  symbol after first number.
 
     EXAMPLE OF COMMENT & UNBLACKLIST
@@ -22,3 +22,4 @@
 209390, --Balie (sjors)
 83335331, --amuseren (cuteware)
 129062601, --ChinesePenguware (cuteware & other)
+3055092132, --bbotuserbase (bad exploiter)
