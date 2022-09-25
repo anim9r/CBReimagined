@@ -25,3 +25,5 @@
 3055092132, --bbotuserbase (bad exploiter)
 1969976020, --50akt (bad exploiter)
 3757688638, --CornTheMarksman (bad exploiter)
+1185812313, --1234_73 (bad exploiter)
+3815042229, Omg_purple13433 (bad exploiter)
