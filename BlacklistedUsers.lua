@@ -23,3 +23,5 @@
 83335331, --amuseren (cuteware)
 129062601, --ChinesePenguware (cuteware & other)
 3055092132, --bbotuserbase (bad exploiter)
+1969976020, --50akt (bad exploiter)
+3757688638, --CornTheMarksman (bad exploiter)
