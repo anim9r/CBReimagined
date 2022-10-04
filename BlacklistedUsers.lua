@@ -59,3 +59,8 @@
 619036186, --CHIKIFELIZ (unnamedcheat)
 2320905161, --I3it_y (unnamedcheat)
 1559837456, --RobloxUserAgain (unnamedcheat)
+2891652240, --A1mer_Hxkin (unnamedcheat)
+3100497284, --nfekjfbeajbfjaebf (unnamedcheat)
+419729652, --Glitchers666 (unnamedcheat)
+2390329458, --PurpIuxz (unnamedcheat)
+1562686639, --cbplayerpro (unnamedcheat)
