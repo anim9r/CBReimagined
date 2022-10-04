@@ -48,3 +48,5 @@
 1645714024, --V3millionUserBot (crasher)
 1645712253, --V3millionUserAgain (crasher)
 1503591812, --MrgunzYT_Alt5 (crasher)
+1648239868, --DontKick_MeDude (crasher)
+1643381808, --DontReport_MeAgain (crasher)
