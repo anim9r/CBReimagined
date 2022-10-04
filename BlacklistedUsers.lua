@@ -44,3 +44,5 @@
 1585621522, --AceOfSpadezIsCool (crasher)
 1655686664, --dllinjector_v3 (crasher)
 1652444739, --NoMor3Tags (crasher)
+1585497929, --One_TapDudeAgain (crasher)
+1645714024, --V3millionUserBot (crasher)
