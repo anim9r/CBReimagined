@@ -67,3 +67,6 @@
 2324517703, --lIIlIlIIlIlIIlIIII (cheater)
 3704590946, --IsMy_ES1 (cheater)
 543394677, --Guestdhhdh (scammer)
+1361983582, --6WascardOf7Becaus789 (exploiter)
+1491903476, --8NRG (exploiter)
+
