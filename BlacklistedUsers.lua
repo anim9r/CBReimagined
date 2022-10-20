@@ -69,4 +69,5 @@
 543394677, --Guestdhhdh (scammer)
 1361983582, --6WascardOf7Becaus789 (exploiter)
 1491903476, --8NRG (exploiter)
+10053187005, --occasionalfairlead (exploiting)
 
